@@ -22,7 +22,7 @@ To write a Python program to solve the Water Jug problem (capacities 8L, 5L, and
 
 ## Program:
 **Developed by:** L Ganesh Kanna  
-**REG NO:** 25003130  
+**REG NO:** 212225230072 
 
 ```
 python
