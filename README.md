@@ -1,6 +1,4 @@
 # WATER JUG PROBLEM USING BREADTH-FIRST SEARCH (BFS)
-# Name : L Ganesh Kanna
-# Register Number : 212225230072
 
 ## Aim:
 To write a Python program to solve the Water Jug problem (capacities 8L, 5L, and 3L) using Breadth-First Search (BFS) to divide 8 liters of water into two equal parts of 4 liters each `(4, 4, 0)`.
